@@ -1,0 +1,22 @@
+
+
+.Pagina-principal{
+    background-color: aqua
+
+}
+ul{
+    display: inline;
+}
+h1{
+    position: relative;
+    left: 800px;
+    border: 3px;
+}
+li{
+    display: inline;
+    transition: none;
+}
+.nav{
+    background-color: white;
+}
+
